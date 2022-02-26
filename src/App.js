@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Assignment <code>2</code> 
+          Assignment <code>2 by</code> 
           <br/>
             SAROSH AHMED
         </p>
